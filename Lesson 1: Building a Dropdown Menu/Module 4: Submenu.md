@@ -229,7 +229,7 @@ Let’s go ahead and take the approach we did implementing the top-level menu. I
 
 We’ll use this stock image of a dog for our image, and I’ve stubbed the categories with fruits and shapes. As is, things are overflowing. Take a moment now to think about what we have to do to get these in the general layout we want.
 
-![Output](submenu3.jpg)
+![Output](submenu4.jpg)
 
 ```html
 <html>
